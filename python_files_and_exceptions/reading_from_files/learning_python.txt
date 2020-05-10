@@ -1,0 +1,3 @@
+In Python you can solve math!
+In Python you can make a game!
+In Python you can visualize reality!

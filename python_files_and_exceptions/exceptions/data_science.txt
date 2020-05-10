@@ -1,0 +1,7 @@
+Data science is a recent umbrella term (term that covers several subdisciplines)
+that includes machine learning and statistics, certain aspects of computer science
+including algorithms, data storage, and web application development. Data science
+is also a practical discipline that requires understanding of the domain in which
+it is applied in, for example, business or science: its purpose (what "added value"
+means), basic assumptions, and constraints. Data science solutions often involve at
+least a pinch of AI (but usually not as much as one would expect from the headlines).
